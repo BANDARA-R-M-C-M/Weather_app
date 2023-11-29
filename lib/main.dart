@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:weather_app/CityApi.dart';
 import 'Widgets.dart';
-
+//if there are any errors, create a folder in assets folder. that might be the issue
 void main() {
   runApp(MyApp());
 }
